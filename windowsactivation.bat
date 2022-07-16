@@ -13,5 +13,5 @@
 set /p key="Paste your key here::::"
 @echo "this is your input %key%"
 slmgr /ipk %key%
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
